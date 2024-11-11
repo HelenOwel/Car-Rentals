@@ -49,7 +49,7 @@ function Service() {
                                     </div>
                                     <h1>{skill.name}</h1>
                                     <p className='pb-9'>{skill.description}</p>
-                                    <a href={skill.link} className=' '>Learn More</a>
+                                    <a href={skill.link} className=' '>Know More</a>
                                 </div>
                             ))
                         }
